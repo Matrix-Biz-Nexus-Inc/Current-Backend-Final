@@ -31,7 +31,7 @@
         "vue-material-design-icons": "^5.0.0",
         "vue-router": "^3.5.1",
         "vuejs-datepicker": "^1.6.2",
-        "vuetify": "^2.6.3",
+        "vuetify": "^3.0.0",
         "vuetify-loader": "^1.7.3"
     }
 }
